@@ -1,4 +1,4 @@
- ----The main file is in ct_apr29.ino open in arduino ide------
+ ----The main file is ct_apr29.ino open in arduino ide------
 
 About the project
  An ESP32 and Arduino-powered Samrt Plug model, using Blynk software that observes the energy 
