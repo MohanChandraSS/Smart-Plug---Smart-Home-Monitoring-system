@@ -1,17 +1,22 @@
  ----The main file is ct_apr29.ino open in arduino ide------
 
-About the project
- An ESP32 and Arduino-powered Samrt Plug model, using Blynk software that observes the energy 
-usage as it happens. It monitors in real-time, giving instant information how much energy is 
-being used. This model is designed to be user-friendly, allowing the users to track the 
-energy consumption of each appliance, showing the information using an their prefered device
-where the data is transmitted from Blynk software allowing the User to have Remote Control over their device. 
+ESP32 & Arduino-Powered Smart Plug with Blynk Integration
+About the Project
+This project features a Smart Plug powered by ESP32 and Arduino, designed to monitor and control energy consumption in real time. Using the Blynk application, users can track power usage remotely from their preferred device, whether a smartphone, tablet, or laptop. The system provides instant insights into energy consumption, offering a user-friendly interface for managing connected appliances efficiently.
 
-🔍 What It Does:
--Live Power Usage Tracking: Get instant insights into how much juice your devices are consuming.
-- Blynk App Sync: Stay connected and monitor power usage from your phone or laptop, anytime, anywhere.
-- Powered by ESP32: Leveraging the versatile ESP32 microcontroller for seamless connectivity and performance.
-- Precision Hardware: Featuring a current sensor and a single-channel relay module for accurate measurements and control.
-- Smart Conversion: An AC to DC converter powers the system efficiently from any standard outlet.
-- Calibration : Calibrated usage reading to showcase an accurate reading for the user.
-- User Friendly: Allowing control of their Connected Devices remotely through their prefered Device using Blynk Application.
+🔍 Key Features:
+✅ Real-Time Power Usage Tracking – Continuously monitors and displays energy consumption with instant feedback.
+
+✅ Blynk App Integration – Enables users to view and control power usage remotely from their devices via a seamless cloud connection.
+
+✅ ESP32-Powered Connectivity – Utilizes the ESP32 microcontroller for stable, low-latency wireless communication and processing.
+
+✅ Precision Hardware Components – Includes a current sensor for accurate energy measurement and a single-channel relay module for controlling appliances.
+
+✅ Smart Power Conversion – Features an AC to DC converter, allowing the system to operate efficiently from any standard electrical outlet.
+
+✅ Accurate Calibration – Ensures precise energy readings through calibrated measurements, enhancing reliability for users.
+
+✅ Remote Control & User-Friendly Interface – Empowers users to switch appliances on/off, track energy usage, and manage their smart home setup effortlessly through the Blynk application.
+
+This Smart Plug model enhances energy efficiency and remote accessibility, making it a practical solution for smart home automation. 🚀
